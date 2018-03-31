@@ -1,0 +1,25 @@
+{
+  "name": "simple-blockchain",
+  "version": "0.0.1",
+  "description": "Simple blockchain implementation",
+  "main": "index.js",
+  "dependencies": {
+    "crypto-js": "latest"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/codemonkey84/holbol.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "codemonkey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codemonkey84/holbol/issues"
+  },
+  "homepage": "https://github.com/codemonkey84/holbol#readme"
+}
